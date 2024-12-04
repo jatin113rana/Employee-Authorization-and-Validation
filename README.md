@@ -1,7 +1,4 @@
-# Employee-Authorization-and-Validation
-
 # Employee Authorization and Validation Backend
-
 This backend project is built using Node.js, Express, and MongoDB. It includes employee authorization and validation functionalities using JWT tokens. The project is structured with routes, controllers, models, and environment variables.
 
 ## Table of Contents
